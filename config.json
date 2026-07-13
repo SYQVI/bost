@@ -1,9 +1,9 @@
 {
-  "token": "",
-  "clientId": "",
-  "guildId": "",
+  "token": "MTUyNDE0ODM4NjAxMjQ2NzIyMA.G-BpsG.hqjHPv0iWpqtf44x1WJPVI99wv7UDBGYtTX6lg",
+  "clientId": "1524148386012467220",
+  "guildId": "1523692223601053847",
   "boostLogChannel": "",
   "tokenLogChannel": "",
-  "adminRoles": ["adminroleid1", "adminroleid2"],
-  "adminUsers": ["userid1", "userid2"]
+  "adminRoles": ["1524454076031696977", "1523710554399576278"],
+  "adminUsers": ["1260235707885293602", "868012221496696872"]
 }
