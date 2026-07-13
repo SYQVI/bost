@@ -1,0 +1,9 @@
+{
+  "token": "",
+  "clientId": "",
+  "guildId": "",
+  "boostLogChannel": "",
+  "tokenLogChannel": "",
+  "adminRoles": ["adminroleid1", "adminroleid2"],
+  "adminUsers": ["userid1", "userid2"]
+}
